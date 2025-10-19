@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sherry Courington
 
-I'm a Software and Machine Learning Engineer 🖥️ with 5 years of experience.  
+I'm a Software and Machine Learning Engineer 🖥️ with 5 years of experience in computer vision, deep learning, and MLOps deployment pipelines.  
 I'm currently working on awesome projects and exploring new technologies ⚙️.
 In my personal time, I enjoy cooking primo Italian dishes 🍴 and running weekly in 50 km races 🏃. 
 
@@ -40,9 +40,3 @@ In my personal time, I enjoy cooking primo Italian dishes 🍴 and running weekl
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
 
 </div>
-
-
----
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=scouring&show_icons=true&hide_border=true&count_private=true)
