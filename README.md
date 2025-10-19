@@ -1,8 +1,6 @@
 # Hi 👋, I'm Sherry Courington
 
-I'm a Software and Machine Learning Engineer 🖥️ with 5 years of experience in computer vision, deep learning, and MLOps deployment pipelines.  
-I'm currently working on awesome projects and exploring new technologies ⚙️.
-In my personal time, I enjoy cooking primo Italian dishes 🍴 and running weekly in 50 km races 🏃. 
+I'm a Software and Machine Learning Engineer 🖥️ with 5 years of experience in computer vision, deep learning, and MLOps deployment pipelines. I'm currently working on awesome projects and exploring new technologies ⚙️. In my personal time, I enjoy cooking primo Italian dishes 🍴 and running weekly in 50 km races 🏃. 
 
 - 🔭 I’m currently working on exciting Machine Learning projects including RAG pipelines and LLM Web Apps.
 - 🌱 I’m a life-long learner and currently building a multi-modal model by adding Vision to an IBM LLM.
